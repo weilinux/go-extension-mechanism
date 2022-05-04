@@ -5,3 +5,12 @@
 接口隔离原则
 迪米特法则
 开闭原则
+面向对象有几个原则： 
+单一职责原则（SingleResponsibilities Principle，SRP） 
+开放-封闭原则（OpenClosed Principle，OCP）、 
+里氏代换原则（LiskovSubstitution Principle，LSP）、 
+依赖倒转原则（DependencyInversion Principle，DIP）、 
+合成/聚合复用原则（Composite/Aggregate Reuse Principle，CARP）、 
+迪米特法则（Principleof Least Knowledge，PLK） 
+
+开闭原则具有理想主义的色彩，它是面向对象设计的终极目标。其他几条，则可以看做是开闭原则的实现方法。
